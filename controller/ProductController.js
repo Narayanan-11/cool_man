@@ -1,4 +1,4 @@
-const Product = require("../model/product");
+const Product = require("../model/productmodel");
 const Order = require("../model/ordermodel");
 const Combo = require("../model/combomodel");
 const generateSKU = require("../utils/generateSKU");
